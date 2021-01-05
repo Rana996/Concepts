@@ -1,0 +1,14 @@
+1 - Count down Timer (Idea number : 4 )
+2- Team Members:
+	- شروق أيمن رشاد , Shrok Ayman Rashad , 20170261
+	- سهيلة مؤمن حسن , Sohila Mo'men Hassan , 20170711
+	-سلمى خالد مختار , Salma Khaled Mokhtar , 20170249
+	-أسماء محمد محمد , Asmaa Mohamed Mohamed , 20170097
+	-رانا علاء احمد   , Rana Alaa Ahmed ,  20170212
+	-زهراء علاء الدين علي , Zahraa AlaaEldin , 20170704
+
+3- Row number : 14
+
+Notes : to test the timer use drop down list don't enter numbers manually. 
+
+--The project contain Gui And Functional programming.
