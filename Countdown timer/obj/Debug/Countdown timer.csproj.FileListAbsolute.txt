@@ -8,3 +8,13 @@ D:\Test codes\Countdown timer\Countdown timer\obj\Debug\Countdown timer.csproj.G
 D:\Test codes\Countdown timer\Countdown timer\obj\Debug\Countdown timer.csproj.CoreCompileInputs.cache
 D:\Test codes\Countdown timer\Countdown timer\obj\Debug\Countdown timer.exe
 D:\Test codes\Countdown timer\Countdown timer\obj\Debug\Countdown timer.pdb
+C:\Users\Asmaa Abdeen\Downloads\Countdown timer\Countdown timer\bin\Debug\Countdown timer.exe.config
+C:\Users\Asmaa Abdeen\Downloads\Countdown timer\Countdown timer\bin\Debug\Countdown timer.exe
+C:\Users\Asmaa Abdeen\Downloads\Countdown timer\Countdown timer\bin\Debug\Countdown timer.pdb
+C:\Users\Asmaa Abdeen\Downloads\Countdown timer\Countdown timer\obj\Debug\Countdown timer.csprojAssemblyReference.cache
+C:\Users\Asmaa Abdeen\Downloads\Countdown timer\Countdown timer\obj\Debug\Countdown_timer.Form1.resources
+C:\Users\Asmaa Abdeen\Downloads\Countdown timer\Countdown timer\obj\Debug\Countdown_timer.Properties.Resources.resources
+C:\Users\Asmaa Abdeen\Downloads\Countdown timer\Countdown timer\obj\Debug\Countdown timer.csproj.GenerateResource.cache
+C:\Users\Asmaa Abdeen\Downloads\Countdown timer\Countdown timer\obj\Debug\Countdown timer.csproj.CoreCompileInputs.cache
+C:\Users\Asmaa Abdeen\Downloads\Countdown timer\Countdown timer\obj\Debug\Countdown timer.exe
+C:\Users\Asmaa Abdeen\Downloads\Countdown timer\Countdown timer\obj\Debug\Countdown timer.pdb
